@@ -444,6 +444,7 @@ p {
     color: #fff;
 }
 
-#clustrmaps-widget{
+#clustrmaps{
     margin: 0 auto;
+    width: 200px;
 }
