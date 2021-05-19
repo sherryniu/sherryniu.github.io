@@ -443,8 +443,3 @@ p {
 .btn-circle:focus {
     color: #fff;
 }
-
-#clustrmaps{
-    margin: 0 auto;
-    width: 200px;
-}
